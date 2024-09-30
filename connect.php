@@ -1,6 +1,6 @@
 
 <?php
-$con = pg_connect("host=aws-0-sa-east-1.pooler.supabase.com dbname=postgres user=postgres.dxfwxgvceuuhdkezxnzp password=SfYb91OLObpY");
+$con = pg_connect("host=aws-0-sa-east-1.pooler.supabase.com dbname=postgres user=postgres.dxfwxgvceuuhdkezxnzp password=*******");
 
 // Check if the connection was successful
 if (!$con) {
